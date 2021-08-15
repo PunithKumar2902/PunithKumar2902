@@ -1,4 +1,4 @@
-- 👋 I’m @Punith Kumar
+- 👋 I’m Punith Kumar
 - 🌱 currently working on Artificial intelligence and Machine learning
 - 💞️ looking to collaborate on any related projects
 <!---
